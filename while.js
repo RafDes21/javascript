@@ -14,7 +14,7 @@ while (palabra != "respeto") {
         document.write(`!!!GAAAANAAAAASSSSTEEEE!!!--   ${name}<br>`)
       
     }
-    if (contador == 1) {
+    if (contador == 5) {
         document.write(`Lo siento ${name} perdiste...`)
         break
     }
