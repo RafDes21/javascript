@@ -1,3 +1,9 @@
+
+body{
+  background-image: radial-gradient(#3f5efb,#fc466b );
+  height: 100vh;
+}
+
 h1{
     text-align: center;
 }
@@ -5,4 +11,10 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+   
+}
+.resultado{
+    display: inline-block;
+    border: 2px solid rgb(36, 32, 32) ;
+    padding: 20px;
 }
