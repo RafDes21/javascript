@@ -11,7 +11,7 @@ while (palabra != "respeto") {
     
     if (palabra == "respeto") {
         
-        document.write(`!!!GAAAANAAAAASSSSTEEEE!!!--   ${name}<br>`)
+        document.write(`!!!GAAAANAAAAASSSSTEEEE!!!-- la palabra es RESPETO   ${name}<br>`)
       
     }
     if (contador == 5) {
